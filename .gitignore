@@ -7,6 +7,7 @@ __pycache__/
 *.so
 # Data
 All_Amazon_Review.json.gz
+Magazine_Subscriptions.json.gz
 # Distribution / packaging
 .Python
 build/
