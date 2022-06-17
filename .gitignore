@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+# Data
+All_Amazon_Review.json.gz
 # Distribution / packaging
 .Python
 build/
