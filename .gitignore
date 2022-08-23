@@ -8,6 +8,8 @@ __pycache__/
 # Data
 All_Amazon_Review.json.gz
 Magazine_Subscriptions.json.gz
+*.json.gz
+*.csv
 # Distribution / packaging
 .Python
 build/
